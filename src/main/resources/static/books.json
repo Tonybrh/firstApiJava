@@ -1,0 +1,50 @@
+{
+    "livros": [
+      {
+        "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "autor": "Robert C. Martin",
+        "area": "Engenharia de Software",
+        "imagem": "URL_PARA_IMAGEM_AQUI",
+        "editora": "Prentice Hall",
+        "data_publicacao": "2008-08-01",
+        "isbn": "978-0132350884"
+      },
+      {
+        "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+        "area": "Design de Software",
+        "imagem": "URL_PARA_IMAGEM_AQUI",
+        "editora": "Addison-Wesley Professional",
+        "data_publicacao": "1994-10-21",
+        "isbn": "978-0201633610"
+      },
+      {
+        "titulo": "You Don't Know JS: Up & Going",
+        "autor": "Kyle Simpson",
+        "area": "Desenvolvimento Web",
+        "imagem": "URL_PARA_IMAGEM_AQUI",
+        "editora": "O'Reilly Media",
+        "data_publicacao": "2015-04-10",
+        "isbn": "978-1491924464"
+      },
+      {
+        "titulo": "Introduction to Algorithms",
+        "autor": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "area": "Algoritmos",
+        "imagem": "URL_PARA_IMAGEM_AQUI",
+        "editora": "The MIT Press",
+        "data_publicacao": "2009-07-31",
+        "isbn": "978-0262033848"
+      },
+      {
+        "titulo": "The Pragmatic Programmer: Your Journey To Mastery",
+        "autor": "Andrew Hunt, David Thomas",
+        "area": "Práticas de Programação",
+        "imagem": "URL_PARA_IMAGEM_AQUI",
+        "editora": "Addison-Wesley Professional",
+        "data_publicacao": "1999-10-30",
+        "isbn": "978-0201616224"
+      }
+    ]
+  }
+  
